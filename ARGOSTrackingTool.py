@@ -9,6 +9,10 @@
 # Date:   Fall 2025
 #--------------------------------------------------------------
 
+##Ask user for a date
+user_date = input("Enter a date: ")
+
+
 #Create a variable pointing to the data file
 file_name = './data/raw/sara.txt'
 
